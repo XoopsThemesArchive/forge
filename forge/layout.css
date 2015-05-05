@@ -1,0 +1,256 @@
+h3 {
+background: #fff url(picz/bg_sectionhead.gif) no-repeat bottom left;
+padding:0 0 2px 14px;
+margin:0 0 5px 0;
+}
+form {
+margin: 0;
+display: inline;
+}
+#contentlink {
+display: none;
+}
+hr.hiddenbar {
+display: none;
+}
+/*header*/
+#hdr {
+background:#babdb6 url(picz/bg_hdr.gif) repeat-x;
+height:62px;
+margin:0;
+padding:0 0 0 10px;
+min-width:763px;
+width:100%;
+}
+#homelink {
+position:absolute;
+top:20px;
+left:0px;
+height:42px;
+width:773px;
+background:url(picz/bg_hdrbtm.gif) no-repeat top left;
+}
+#homelink img {
+margin-left:11px;
+}
+/*site wide navigation*/
+#commonnav {
+height:20px;
+width:763px;
+padding:0;
+margin:0;
+background:url(picz/hdr_divline.gif) no-repeat top right;
+}
+#commonnav li {
+display: block;
+float: left;
+list-style-type: none;
+padding:0;
+margin:0;
+height:19px;
+background-image:url(picz/hdr_divline.gif);
+background-repeat:no-repeat;
+background-position:top left;
+font:10px/19px arial,helvetica,sans-serif;
+text-align:center;
+}
+#commonnav a {
+text-decoration:none;
+color:#FFF
+}
+#company {
+width:83px;
+background-color:#848582;
+}
+#myforge {
+width:91px;
+background-color:#848582;
+}
+#solutions {
+width:103px;
+}
+#products {
+width:96px;
+}
+#training {
+width:92px;
+}
+#support {
+width:89px;
+}
+#partners {
+width:100px;
+}
+#developers {
+width:108px;
+}
+/*search toolbar*/
+#toolbar {
+position:absolute;
+left:200px;
+top:41px;
+width:572px;
+white-space: nowrap;
+padding: 0;
+margin: 0;
+font:bold 10px/20px trebuchet ms,arial,helvetica,sans-serif;
+}
+#toolbar li {
+display: block;
+float: right;
+list-style-type: none;
+padding:0;
+margin:0;
+background-repeat:no-repeat;
+background-position:top left;
+}
+#toolbar a {
+padding: 2px 9px 3px 29px;
+border: 0;
+text-decoration:none;
+color:#535958;
+}
+#toolbarlang a {
+padding-left:9px;
+}
+#toolbarlang img {
+vertical-align:middle;
+}
+#toolbarbuy {
+background-image: url(picz/hdr_cart.gif);
+}
+#toolbardownload {
+background-image: url(picz/hdr_download.gif);
+}
+#toolbarsearch {
+background-image: url(picz/hdr_search.gif);
+}
+/*language and search dropdowns*/
+#nlangMenu {
+position:absolute;
+top:42px;
+left:20px;
+width:190px;
+z-index:500;
+padding-top:19px;
+visibility:hidden;
+}
+#nlangoptions, #nlangauto, #srchform, #srchadv, #srchfilter1, #srchfilter2, #srchfilter3 {
+padding:8px;
+background:#2e3436 url(picz/dotline_horiz_drk.gif) repeat-x bottom left;
+}
+#srchquery {
+margin:0;
+padding:4px 0 4px 0;
+}
+#srchbtn {
+text-align:right;
+padding-top:8px;
+}
+#srchtitle {
+padding:10px 10px 0 10px;
+background-color:#2e3436;
+}
+#srchform {
+padding-top:0px;
+}
+#nlangww, #srchfilter4 {
+padding:10px;
+background-color:#2e3436;
+}
+.searchEntry {
+font:10px arial,helvetica,sans-serif;
+width:170px;
+}
+#srchmenu {
+position:absolute;
+top:42px;
+left:582px;
+width:190px;
+z-index:500;
+padding-top:19px;
+visibility:hidden;
+}
+#langtab {
+position:absolute;
+left:0px;
+top:0px;
+margin:0;
+padding:0;
+height:20px;
+font:bold 10px trebuchet ms,arial,helvetica,sans-serif;
+color:#FFF;
+background-color:#2e3436;
+}
+#langtab a {
+padding:0 9px;
+line-height:20px
+}
+#srchtab {
+position:absolute;
+top:0px;
+right:0px;
+margin:0;
+padding:0;
+height:20px;
+font:bold 10px trebuchet ms,arial,helvetica,sans-serif;
+color:#FFF;
+background:#2e3436 url(picz/hdr_search_on.gif) no-repeat top left;
+}
+#srchtab a {
+padding:0 9px 0 28px;
+line-height:20px
+}
+.toolbarmenutxt {
+font:10px arial,helvetica,sans-serif;
+color:#FFF
+}
+.toolbarmenutxt a {
+color:#FFF; 
+text-decoration:none; 
+line-height:16px
+}
+.toolbarmenutitle {
+font:12px arial,helvetica,sans-serif;
+color:#FFF;
+}
+.toolbarmenuclose {
+position:absolute;
+right:0px;
+top:20px;
+}
+/*footer*/
+#ftr {
+position:relative;
+background-color:#6b6c69;
+border-top:1px solid #babdb6;
+border-bottom:1px solid #babdb6;
+min-width:773px;
+}
+#ftrlinks {
+position:relative;
+height:20px;
+width:773px;
+font:10px/20px arial,helvetica,sans-serif;
+color:#CCC;
+text-indent:11px;
+}
+#ftrlinks a {
+text-decoration:none;
+font-size:11px;
+color:#FFF;
+}
+#ftrlinks a:hover {
+color:#CCC;
+}
+#ftricons {
+display:block;
+position:absolute;
+left:621px;
+top:1px;
+width:152px;
+text-align:right;
+}
+#ftricons #poweredby {
+margin-left:7px;
+}

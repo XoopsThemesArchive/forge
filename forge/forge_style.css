@@ -1,0 +1,68 @@
+body, td {font:75% arial,helvetica,sans-serif; color:#333}
+.bgdrk {background:#2e3436}
+.bgmed {background:#babdb6}
+.bglt {background:#EEE}
+.bodyCopy b {font-family:trebuchet ms,arial,helvetica,sans-serif; font-weight:bold}
+.bodyCopy a {color:#333}
+.bodyCopy a:visited {color:#6B5481}
+.bodyCopy a:hover {color:#C00}
+.bodyCopyRed {color:#C00}
+.bodyCopyRed b {font-family:trebuchet ms; font-weight:bold; color:#C00}
+.bodyCopyRed a {color:#C00}
+.bodyCopyRed a:hover {color:#999}
+.bodyHead {font-family:verdana,arial,helvetica,sans-serif; font-weight:bold}
+.bodyHead a {color:#333}
+.bodyHead a:hover {color: #999}
+.dotlinehoriz {background-image: url(picz/dotlinebg_horiz.gif); height:1px; line-height:1px; overflow:hidden; font-size:24px;}
+.dotlinevert {background-image: url(picz/dotlinebg_horiz.gif); width:1px;}
+.footerText {font:10px/14px arial,helvetica,sans-serif; color:#CCC; text-decoration:none; background:#6b6c69}
+.footerText a {text-decoration:none; font-size:11px; color:#FFF}
+.footerText a:hover {color:#CCC}
+.headingBlock {font:12px/20px trebuchet ms,arial,helvetica,sans-serif; color:#FFF}
+.headingBlock a {color:#FFF; text-decoration:none}
+.headingBlock a:hover {color:#FFF}
+.hdrNav {font:10px/19px arial,helvetica,sans-serif; color:#FFF}
+.hdrNav a {text-decoration:none; color:#FFF}
+.hdrLinks {font:bold 10px trebuchet ms,arial,helvetica,sans-serif; color:#535958}
+.hdrLinks a {text-decoration:none; color:#535958}
+.hdrLinksOn {font:bold 10px trebuchet ms,arial,helvetica,sans-serif; color:#FFF; background-color:#2e3436}
+.hdrLinksOn a {text-decoration:none; color:#FFF}
+.hdr-forms {font:10px arial,helvetica,sans-serif; margin:0px}
+.searchEntry {font:10px arial,helvetica,sans-serif; width:170px}
+.hdrSearchTitle {font:12px arial,helvetica,sans-serif; color:#FFF}
+.hdrSearchText {font:10px arial,helvetica,sans-serif; color:#FFF}
+.hdrSearchText a {color:#FFF; text-decoration:none; line-height:16px}
+.hdrSearchText a:hover {font-weight:bold}
+.head1 {font:bold 14px verdana,arial,helvetica,sans-serif; color:#C00}
+.head1 a {text-decoration:none; color:#C00}
+.head1 a:hover {color:#999}
+.head2 {font:bold 13px verdana,arial,helvetica,sans-serif; color:#000}
+.head2 a {text-decoration:none; color:#000}
+.head2 a:hover {color:#999}
+.head3 {font:bold 14px/18px trebuchet ms,arial,helvetica,sans-serif; color:#C00}
+.head3 a {text-decoration:none; color:#C00}
+.head3 a:hover {color:#999}
+.leadCopy b {font-family:trebuchet ms,arial,helvetica,sans-serif; font-weight:bold}
+.leadCopy a {text-decoration:none; color:#333}
+.leadCopy a:hover {color:#999}
+.leadCopyRed {color:#C00}
+.leadCopyRed b {font-family:trebuchet ms,sans-serif;; font-weight:bold; color:#C00}
+.leadCopyRed a {text-decoration:none; color:#C00}
+.leadCopyRed a:hover {color:#999}
+.leftNav {font:11px arial,sans-serif; color:#333; background-color:#EDEEEC}
+.leftNav a {text-decoration:none; color:#333}
+.newsIntro1 {font-family:trebuchet ms,arial,helvetica,sans-serif; font-weight:bold}
+.newsIntro1 a {text-decoration:none; color:#333}
+.newsIntro1 a:hover {color:#999}
+.newsIntro2 {font-family:trebuchet ms,arial,helvetica,sans-serif; font-weight:bold; color:#C00}
+.newsIntro2 a {text-decoration:none; color:#C00}
+.newsIntro2 a:hover {color:#999}
+.newsText {font-size:68%}
+.newsText a {text-decoration:none; color:#333}
+.newsText a:hover {color:#999}
+.subTitle {font:13px trebuchet ms,arial,helvetica,sans-serif; color:#000}
+.title {font:22px/26px trebuchet ms,arial,helvetica,sans-serif; color:#C00}
+.title2 {font:20px/26px trebuchet ms,arial,helvetica,sans-serif; color:#FFF}
+.upNav {font:11px trebuchet ms,arial,helvetica,sans-serif; color:#999}
+.upNav A {color:#999; text-decoration:none}
+.upNav A:hover {color:#333}
